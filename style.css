@@ -88,6 +88,7 @@ body {
 .plan h4 {
     color: var(--Dark-blue);
     font-weight: bolder;
+    font-size: 15px;
 }
 .plan p:hover {
     color: var(--Desaturated-blue);
