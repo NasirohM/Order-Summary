@@ -2,6 +2,16 @@
     body {
         background-image: url("./images/pattern-background-mobile.svg");
     }
+    .hero {
+        width: 320px;
+        height: 200px;
+        background-image: url("/images/illustration-hero.svg");
+        /* background-repeat: no-repeat; */
+        border-radius: 20px 20px 0 0;
+        background-position-x: center;
+        background-position-y: center;
+    
+    }
 }
 * {
     margin: 0;
