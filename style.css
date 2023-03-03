@@ -27,7 +27,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    /* position: relative; */
+    position: fixed;
 }
 .hero {
     width: 320px;
